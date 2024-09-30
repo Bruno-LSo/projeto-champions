@@ -1,0 +1,130 @@
+[
+    {
+        "id": 1,
+        "name": "Real Madrid"
+    },
+    {
+        "id": 2,
+        "name": "Barcelona"
+    },
+    {
+        "id": 3,
+        "name": "Manchester City"
+    },
+    {
+        "id": 4,
+        "name": "Paris Saint-Germain"
+    },
+    {
+        "id": 5,
+        "name": "Bayern Munich"
+    },
+    {
+        "id": 6,
+        "name": "Inter Milan"
+    },
+    {
+        "id": 7,
+        "name": "AC Milan"
+    },
+    {
+        "id": 8,
+        "name": "Napoli"
+    },
+    {
+        "id": 9,
+        "name": "Atletico Madrid"
+    },
+    {
+        "id": 10,
+        "name": "Benfica"
+    },
+    {
+        "id": 11,
+        "name": "Porto"
+    },
+    {
+        "id": 12,
+        "name": "Manchester United"
+    },
+    {
+        "id": 13,
+        "name": "Arsenal"
+    },
+    {
+        "id": 14,
+        "name": "Newcastle United"
+    },
+    {
+        "id": 15,
+        "name": "Celtic"
+    },
+    {
+        "id": 16,
+        "name": "Lazio"
+    },
+    {
+        "id": 17,
+        "name": "Borussia Dortmund"
+    },
+    {
+        "id": 18,
+        "name": "RB Leipzig"
+    },
+    {
+        "id": 19,
+        "name": "Union Berlin"
+    },
+    {
+        "id": 20,
+        "name": "Shakhtar Donetsk"
+    },
+    {
+        "id": 21,
+        "name": "Galatasaray"
+    },
+    {
+        "id": 22,
+        "name": "Feyenoord"
+    },
+    {
+        "id": 23,
+        "name": "Red Star Belgrade"
+    },
+    {
+        "id": 24,
+        "name": "Young Boys"
+    },
+    {
+        "id": 25,
+        "name": "Copenhagen"
+    },
+    {
+        "id": 26,
+        "name": "Sevilla"
+    },
+    {
+        "id": 27,
+        "name": "Real Sociedad"
+    },
+    {
+        "id": 28,
+        "name": "Braga"
+    },
+    {
+        "id": 29,
+        "name": "Lens"
+    },
+    {
+        "id": 30,
+        "name": "PSV Eindhoven"
+    },
+    {
+        "id": 31,
+        "name": "Antwerp"
+    },
+    {
+        "id": 32,
+        "name": "Salzburg"
+    }
+]
